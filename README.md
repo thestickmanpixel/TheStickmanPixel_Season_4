@@ -8,7 +8,7 @@ TheStickmanPixel Season 4
 
 List of Cartoon VHS, Shorts, Original, Game, & Scrap!
 
-| Number | Title | Calendar | Name |
+| Number | Title | Name | Calendar |
 | --- | --- | --- | --- | 
 | 1. | ??? | ??? | ??? |
 | 2. | ??? | ??? | ??? |
